@@ -1,0 +1,2 @@
+# kyrgyz-tts
+Voice Synthesizer
