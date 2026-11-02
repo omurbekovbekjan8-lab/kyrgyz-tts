@@ -1,5 +1,2 @@
 streamlit
-torch
-transformers
-soundfile
-numpy
+requests
